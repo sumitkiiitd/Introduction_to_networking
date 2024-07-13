@@ -68,7 +68,7 @@
 
 - Broadcast addresses use an incorrect format for the switching table.
 - Broadcast frames are never sent to switches.
-- **A broadcast address will never be the source address of a frame.**
+- A broadcast address will never be the source address of a frame.
 - A broadcast frame is never forwarded by a switch.
 
 ## Question 10
